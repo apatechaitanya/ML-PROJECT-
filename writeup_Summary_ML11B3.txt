@@ -1,0 +1,32 @@
+ML-MAJOR-NOV- ML11B3
+                                           Detailed summary
+
+The following tasks were done :
+
+1.Importing Libraries and Data:
+Pandas,numpy,matplotlib
+
+
+2.Preprocessing Data:
+Dropping unnecessary features, null values dropped,converting to lowe case strings,
+
+3.We have answered 2 questions on the dataset-
+  1.  To get placed with highest salary which degree should be Opted?
+  2. Which specialisation has the highest "mba_p" ?
+
+4.Classificiation Algorithms
+ -Algorithm 1: SVM
+ -Algorithm 2: Logistic Regression
+ -Algorithm 3: KNN
+ 
+5. Result
+    Accuracy 
+   - SVM                 :68.51%
+   -Logistic Regression  :77.77%
+   -KNN                  :75.92%
+
+6.Conclusion      
+
+It can be concluded that for the models developed, The logistic regression gave the best performance with 0.77777 score.
+We see the best model is Logistic Regression with 77.77% accuracy, followed by KNN Classification with 75.92% accuracy and Support Vector Machine (SVM) with 68.51% accuracy.
+
